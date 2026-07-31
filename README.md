@@ -1,13 +1,34 @@
 # Meu primeiro Projeto em Dart Flutter
 
-## Professor
+## Professor  🗂️
 
 Nome: Jansen Killinger Cara
 Turma: DS2A <br>
-p
+Professor: Jansen
 
 
-projeto para alunos SENAI e SESI
+Projeto para alunos SENAI e SESI
 
 
 Aula de comandos básicos em Dart Flutter
+
+```dart
+  dart run aula1.dart
+```
+## Resultado
+```
+![imagem](./imagem/image.png)
+```
+## As Tecnologias
+    - Dart
+    - GIT
+    - Terminal
+    - VScode
+    - MarkDown
+
+## O que aprendemos
+    - Documentação Dart
+    - Criar o README.md
+    - Instalamos o GIT
+    - Comandos em Dart
+    - Fork no GitHub
